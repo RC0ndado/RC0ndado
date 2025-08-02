@@ -1,9 +1,10 @@
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rickramirez&theme=radical&show_icons=true&count_private=true" width="450" />
+  <br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rickramirez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="600" />
 
   <h1>Rick Ramírez | Software & Data Engineer 🧠🚀</h1>
-   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3azdiNnY0aHpoOTlzemoxdmM3bmFkMmxtMTJwbGg5dWMzcWc2dnV1cyZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/Q9aBxHn9fTqKs/giphy.gif" width="600" />
-
-  <strong>Arquitecto de automatizaciones y datos bien tratados | Infraestructura lógica | AWS powered & Git vibes included</strong>
+  <strong>Arquitecto de automatizaciones y datos bien tratados | Infraestructura lógica | Git vibes included</strong>
 </div>
 
 ---
@@ -20,9 +21,12 @@ Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo
 
 ## 🔧 Stack con el que juego a diario
 
-
 <!--tech stack icons-->
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Tecnologías que uso 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,spark,html,css,aws&perline=8&theme=dark" />
