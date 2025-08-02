@@ -36,8 +36,7 @@ Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo
 
 ### 📦 Frameworks / Librerías favoritas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,selenium&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=beautifulsoup&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,selenium,beautifulsoup&theme=dark" />
 </p>
 
 ### 🗄️ Bases de Datos que conozco
