@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rickramirez&theme=radical&show_icons=true&count_private=true" width="450" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RC0ndado&theme=radical&show_icons=true&count_private=true" width="450" />
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=rickramirez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="600" />
 
-  <h1>Rick Ramírez | Software & Data Engineer 🧠🚀</h1>
+  <h1>Ricardo Condado | Software & Data Engineer 🧠🚀</h1>
   <strong>Arquitecto de automatizaciones y datos bien tratados | Infraestructura lógica | Git vibes included</strong>
 </div>
 
@@ -30,20 +30,20 @@ Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo
 
 ### 🧠 Lenguajes, herramientas y entornos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,clojure,maven&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,clojure,maven&theme=dark" />
   <img src="https://skillicons.dev/icons?i=html,css,git,github,linux,vscode,pycharm&theme=dark" />
 </p>
 
 ### 📦 Frameworks / Librerías favoritas
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,selenium&theme=dark" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white" height="28" />
+  <img src="https://skillicons.dev/icons?i=beautifulsoup&theme=dark" />
 </p>
 
 ### 📄 Bases de Datos que conozco
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,bigquery,mongodb,firebase,redis&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
 </p>
 
 ### 🔌 Cosas que he conectado
