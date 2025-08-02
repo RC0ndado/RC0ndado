@@ -27,10 +27,22 @@ Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo
     <summary><h2 style="display: inline-block">Tecnologías que uso 👨🏻‍💻</h2></summary>
   </ul>
 </div>
+
+### 🧠 Lenguajes, herramientas y entornos
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,html,css,aws,gcp,git,github,linux,vscode,pycharm,clojure,spark,flask,fastapi,streamlit,selenium,beautifulsoup,mongodb,firebase,postgres,mysql,oracle,bigquery,redis&perline=10&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,clojure,spark&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,git,github,linux,vscode,pycharm&theme=dark" />
+</p>
+
+### 📦 Frameworks / Librerías favoritas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,selenium&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=beautifulsoup&theme=dark" />
+</p>
+
+### 🗄️ Bases de Datos que conozco
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,bigquery,mongodb,firebase,redis&theme=dark" />
 </p>
 
 ### 🔌 Cosas que he conectado
