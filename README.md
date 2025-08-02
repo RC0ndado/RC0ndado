@@ -24,24 +24,26 @@ Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo
 <!--tech stack icons-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologías que uso 👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que uso 👨‍💻</h2></summary>
   </ul>
 </div>
 
 ### 🧠 Lenguajes, herramientas y entornos
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,clojure,spark&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,clojure,maven&theme=dark" />
   <img src="https://skillicons.dev/icons?i=html,css,git,github,linux,vscode,pycharm&theme=dark" />
 </p>
 
 ### 📦 Frameworks / Librerías favoritas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,selenium,beautifulsoup&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,selenium&theme=dark" />
+  <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white" height="28" />
 </p>
 
-### 🗄️ Bases de Datos que conozco
+### 📄 Bases de Datos que conozco
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,oracle,bigquery,mongodb,firebase,redis&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,bigquery,mongodb,firebase,redis&theme=dark" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="28" />
 </p>
 
 ### 🔌 Cosas que he conectado
@@ -80,7 +82,7 @@ Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo
 
 ---
 
-## 📫 Cómo me puedes contactar
+## 📢 Cómo me puedes contactar
 
 - **Email:** rickramirez.dev@gmail.com
 - **LinkedIn:** [linkedin.com/in/ricardoramirezcondado](https://www.linkedin.com/in/ricardoramirezcondado/)
