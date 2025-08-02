@@ -29,20 +29,9 @@ Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo
 </div>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,html,css,aws,gcp,git,github,linux,vscode,pycharm,clojure&perline=8&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,csharp,html,css,aws,gcp,git,github,linux,vscode,pycharm,clojure,spark,flask,fastapi,streamlit,selenium,beautifulsoup,mongodb,firebase,postgres,mysql,oracle,bigquery,redis&perline=10&theme=dark" />
   </a>
 </p>
-
-### 📦 Frameworks / Librerías favoritas
-- PySpark / pandas / NumPy
-- Flask / FastAPI / Streamlit
-- Selenium / BeautifulSoup / openpyxl
-- Jinja2 / SQLAlchemy / boto3
-
-### 🛢️ Bases de Datos que conozco
-- PostgreSQL / MySQL / Oracle
-- Google BigQuery / SQL Server
-- MongoDB / Firebase / Redis
 
 ### 🔌 Cosas que he conectado
 - Google Sheets / Drive API
