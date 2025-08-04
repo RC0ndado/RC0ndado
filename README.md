@@ -3,23 +3,23 @@
   <br/>
   <img src="https://github-profile-trophy.vercel.app/?username=rickramirez&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" width="600" />
 
-  <h1>Ricardo Condado | Software & Data Engineer 🧠🚀</h1>
-  <strong>Arquitecto de automatizaciones y datos bien tratados | Infraestructura lógica | Git vibes included</strong>
+  <h1>Ricardo Condado | Software Engineer 🧠🚀</h1>
+  <strong>Data Scientist as Hobbie | Logical Structure | Git Vibes Included</strong>
 </div>
 
 ---
 
-## 🙋‍♂️ ¿Quién soy?
+## 👨‍💻 About me?
 
-Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo a quien las use. Automatizo todo lo repetitivo, trabajo con datos como si fueran piezas de Lego, y siempre estoy aprendiendo algo nuevo que me rete a pensar diferente.
+I like to build things that work, are useful, and save time for whoever uses them. I automate everything repetitive, I work with data as if it were Lego bricks, and I'm always learning something new that challenges me to think differently.
 
-> Team work > ego. Y sí, soy de los que documenta su código 🧠.
+> Team work > ego. And yes, I'm one of those who documents their code  💡.
 
-> A veces con el sistema, a veces contra él. Pero siempre con lógica.
+> Sometimes with the system, sometimes against it. But always with logic.
 
 ---
 
-## 🔧 Stack con el que juego a diario
+## 🔧 Stack I play with daily
 
 <!--tech stack icons-->
 <div id="user-content-toc">
@@ -28,69 +28,69 @@ Me gusta construir cosas que funcionen, que sean útiles y que le ahorren tiempo
   </ul>
 </div>
 
-### 🧠 Lenguajes, herramientas y entornos
+### < / > Lenguajes, herramientas y entornos
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,cs,clojure,maven&theme=dark" />
   <img src="https://skillicons.dev/icons?i=html,css,git,github,linux,vscode,pycharm&theme=dark" />
 </p>
 
-### 📦 Frameworks / Librerías favoritas
+### 💻 Favorite Frameworks / Libraries
 <p align="center">
   <img src="https://skillicons.dev/icons?i=flask,fastapi,streamlit,selenium&theme=dark" />
   <img src="https://skillicons.dev/icons?i=beautifulsoup&theme=dark" />
 </p>
 
-### 📄 Bases de Datos que conozco
+### 📄 Databases I know
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,bigquery,mongodb,firebase,redis&theme=dark" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" />
 </p>
 
-### 🔌 Cosas que he conectado
+### 🔌 IoT and IA Tools
 - Google Sheets / Drive API
-- Salesforce (layouts y objetos)
-- AWS Glue 4.0 con JARs y DatioSpark
+- Salesforce (layouts & objects)
+- AWS Glue 4.0 with JARs & DatioSpark
 
 ---
 
-## 🌱 Últimos proyectos cool
+## 🌱 Last Cool Projects
 
-- **Automatización bancaria**: DOCX + PDFs + ZIPs + Google Sheets, todo desde Colab. Clean y directo.
-- **Migración de SAS a PySpark**: Reescribí reglas bancarias completas en Spark bajo normas estrictas. Glue 4.0 con todo.
-- **Layouts en Salesforce**: Objetos personalizados y reportes útiles para el día a día del banquero.
-- **Kaggle vibes**: Modelos de regresión, clasificación, clustering y scoring listos para producción.
-
----
-
-## ⚙️ Cómo trabajo
-
-- No me gusta el código innecesario.
-- Sí me gusta comentar lo justo y dejar todo legible.
-- Automatizo todo lo que pueda.
-- Me gusta aprender en equipo y no me da miedo preguntar.
-
-> A veces un buen script ahorra semanas. A veces sólo 10 minutos. Ambas valen igual.
+- **Banking Automation**: DOCX + PDFs + ZIPs + Google Sheets, all from Colab. Clean and straightforward.
+- **SAS to PySpark Migration**: I rewrote entire banking rules in Spark under strict standards. Glue 4.0 with everything.
+- **Salesforce Layouts**: Custom objects and useful reports for a banker's daily work.
+- **Kaggle Vibes**: Regression, classification, clustering, and scoring models ready for production.
 
 ---
 
-## 📚 Aprendiendo ahora mismo
+## ⚙️ How I Work
 
-- Spark a fondo para procesamiento en serio
-- Infraestructura de datos escalable
-- Inglés avanzado (meta: C1+)
-- Backend funcional con Clojure
+- I don't like unnecessary code.
+- I do like to comment only the right amount and keep everything readable.
+- I automate as much as I can.
+- I like to learn as a team and I'm not afraid to ask questions.
+
+> Sometimes a good script saves weeks. Sometimes only 10 minutes. Both are worth the same.
 
 ---
 
-## 📢 Cómo me puedes contactar
+## 📚 Learning right now
 
-- **Email:** rickramirez.dev@gmail.com
-- **LinkedIn:** [linkedin.com/in/ricardoramirezcondado](https://www.linkedin.com/in/ricardoramirezcondado/)
+- Spark deep dive for serious processing
+- Scalable data infrastructure
+- Advanced English (target: C1)
+- Functional backend with Clojure
+
+---
+
+## 📢 Contact
+
+-l **LinkedIn:** [linkedin.com/in/ricardoramirezcondado](https://www.linkedin.com/in/ricardo-condado-bb281a241/)
 
 ---
 
 <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHIzOTN6bmtjMGZnOTM3NmVkZWoxZmtrdHBzazJodDY0aTF0Y3lhYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BpGWitbFZfls3qX5B9/giphy.gif" width="280" />
 
-  <h4>Hazlo simple. Hazlo útil. Hazlo bien. Aunque duela un poco.</h4>
+  <h4>> "To surrender the idea of victory before the battle begins is to accept defeat without a fight. I will never fear the 'cosmos' of a daunting problem.">> — *Shaka de Virgo, Saint Seiya*
+</h4>
 </div>
